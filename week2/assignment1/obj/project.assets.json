@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LUX\\Documents\\Programming 1\\week2\\assignment1\\assignment1.csproj",
+      "projectUniqueName": "C:\\Users\\LUX\\Documents\\Programming1\\week2\\assignment1\\assignment1.csproj",
       "projectName": "assignment1",
-      "projectPath": "C:\\Users\\LUX\\Documents\\Programming 1\\week2\\assignment1\\assignment1.csproj",
+      "projectPath": "C:\\Users\\LUX\\Documents\\Programming1\\week2\\assignment1\\assignment1.csproj",
       "packagesPath": "C:\\Users\\LUX\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LUX\\Documents\\Programming 1\\week2\\assignment1\\obj\\",
+      "outputPath": "C:\\Users\\LUX\\Documents\\Programming1\\week2\\assignment1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LUX\\AppData\\Roaming\\NuGet\\NuGet.Config",

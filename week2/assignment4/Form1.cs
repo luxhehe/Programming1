@@ -42,6 +42,7 @@ namespace assignment4
             string input = Console.ReadLine();
             double price = double.Parse(input);
             double VAT = price * 0.21;
+            Console.WriteLine();
 
 
 

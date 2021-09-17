@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LUX\\Documents\\Programming 1\\week2\\assignment2\\assignment2.csproj": {}
+    "C:\\Users\\LUX\\Documents\\Programming1\\week2\\assignment2\\assignment2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LUX\\Documents\\Programming 1\\week2\\assignment2\\assignment2.csproj": {
+    "C:\\Users\\LUX\\Documents\\Programming1\\week2\\assignment2\\assignment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LUX\\Documents\\Programming 1\\week2\\assignment2\\assignment2.csproj",
+        "projectUniqueName": "C:\\Users\\LUX\\Documents\\Programming1\\week2\\assignment2\\assignment2.csproj",
         "projectName": "assignment2",
-        "projectPath": "C:\\Users\\LUX\\Documents\\Programming 1\\week2\\assignment2\\assignment2.csproj",
+        "projectPath": "C:\\Users\\LUX\\Documents\\Programming1\\week2\\assignment2\\assignment2.csproj",
         "packagesPath": "C:\\Users\\LUX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LUX\\Documents\\Programming 1\\week2\\assignment2\\obj\\",
+        "outputPath": "C:\\Users\\LUX\\Documents\\Programming1\\week2\\assignment2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LUX\\AppData\\Roaming\\NuGet\\NuGet.Config",
