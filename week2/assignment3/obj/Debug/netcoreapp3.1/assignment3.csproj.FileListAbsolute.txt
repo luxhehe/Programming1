@@ -1,0 +1,14 @@
+C:\Users\LUX\Documents\Programming 1\week2\assignment3\bin\Debug\netcoreapp3.1\assignment3.exe
+C:\Users\LUX\Documents\Programming 1\week2\assignment3\bin\Debug\netcoreapp3.1\assignment3.deps.json
+C:\Users\LUX\Documents\Programming 1\week2\assignment3\bin\Debug\netcoreapp3.1\assignment3.runtimeconfig.json
+C:\Users\LUX\Documents\Programming 1\week2\assignment3\bin\Debug\netcoreapp3.1\assignment3.runtimeconfig.dev.json
+C:\Users\LUX\Documents\Programming 1\week2\assignment3\bin\Debug\netcoreapp3.1\assignment3.dll
+C:\Users\LUX\Documents\Programming 1\week2\assignment3\bin\Debug\netcoreapp3.1\assignment3.pdb
+C:\Users\LUX\Documents\Programming 1\week2\assignment3\obj\Debug\netcoreapp3.1\assignment3.csproj.AssemblyReference.cache
+C:\Users\LUX\Documents\Programming 1\week2\assignment3\obj\Debug\netcoreapp3.1\assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUX\Documents\Programming 1\week2\assignment3\obj\Debug\netcoreapp3.1\assignment3.AssemblyInfoInputs.cache
+C:\Users\LUX\Documents\Programming 1\week2\assignment3\obj\Debug\netcoreapp3.1\assignment3.AssemblyInfo.cs
+C:\Users\LUX\Documents\Programming 1\week2\assignment3\obj\Debug\netcoreapp3.1\assignment3.csproj.CoreCompileInputs.cache
+C:\Users\LUX\Documents\Programming 1\week2\assignment3\obj\Debug\netcoreapp3.1\assignment3.dll
+C:\Users\LUX\Documents\Programming 1\week2\assignment3\obj\Debug\netcoreapp3.1\assignment3.pdb
+C:\Users\LUX\Documents\Programming 1\week2\assignment3\obj\Debug\netcoreapp3.1\assignment3.genruntimeconfig.cache

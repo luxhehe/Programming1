@@ -1,0 +1,10 @@
+C:\Users\LUX\Documents\Programming 1\week2\assignment4\bin\Debug\assignment4.exe.config
+C:\Users\LUX\Documents\Programming 1\week2\assignment4\bin\Debug\assignment4.exe
+C:\Users\LUX\Documents\Programming 1\week2\assignment4\bin\Debug\assignment4.pdb
+C:\Users\LUX\Documents\Programming 1\week2\assignment4\obj\Debug\assignment4.csproj.AssemblyReference.cache
+C:\Users\LUX\Documents\Programming 1\week2\assignment4\obj\Debug\assignment4.formassignment4.resources
+C:\Users\LUX\Documents\Programming 1\week2\assignment4\obj\Debug\assignment4.Properties.Resources.resources
+C:\Users\LUX\Documents\Programming 1\week2\assignment4\obj\Debug\assignment4.csproj.GenerateResource.cache
+C:\Users\LUX\Documents\Programming 1\week2\assignment4\obj\Debug\assignment4.csproj.CoreCompileInputs.cache
+C:\Users\LUX\Documents\Programming 1\week2\assignment4\obj\Debug\assignment4.exe
+C:\Users\LUX\Documents\Programming 1\week2\assignment4\obj\Debug\assignment4.pdb
